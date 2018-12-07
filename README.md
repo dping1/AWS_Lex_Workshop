@@ -148,7 +148,8 @@ Here we will create a Lambda function that has some Python code to detect the in
 
 9.	Download the lambda function code you will find [here](https://raw.githubusercontent.com/dping1/AWS_Lex_Workshop/master/script/myPersonalBanker_v1.py). Copy and paste the code into the inline editor (while making sure to overwrite/delete any template code that is already in the code box)
 
-![add lambda code](./images/lambda.png)
+<img src="./images/lambda.png" alt="select latest" width="400"/>
+
 
 10. Click "Save" at the top to save the lambda function.
 
@@ -163,12 +164,13 @@ To do this, we go back to the Lex Console.
     2. Enure the ‘GetAccountDetail’ intent is selected
     3. Make sure that the ‘Latest’ version is selected
 
-![select latest](./images/latestver.png)
+<img src="./images/latestver.png" alt="select latest" width="200"/>
 
 4.	Scroll down to ‘Fulfillment’, select “AWS Lambda function”, choose “myPersonalBanker” and click “OK” in the popup warning window which opens. It indicates you are giving Lex the permission to run this Lambda function.
 
 
-![fullfill](./images/fullfill.png)
+<img src="./images/fullfill.png" alt="drawing" width="800"/>
+
 
 5.	Click Save intent.
 
