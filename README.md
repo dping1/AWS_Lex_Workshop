@@ -90,7 +90,8 @@ Let’s add 2 more intents and one more slot type.
 
 28.	Make sure that the “Required” column is selected
 
-![loantype slot save](./images/loantypeslot.png)
+
+<img src="./images/loantypeslot.png" alt="loadtype slot save" width="800"/>
 
 29.	Click ‘Save Intent’
 
@@ -148,7 +149,7 @@ Here we will create a Lambda function that has some Python code to detect the in
 
 9.	Download the lambda function code you will find [here](https://raw.githubusercontent.com/dping1/AWS_Lex_Workshop/master/script/myPersonalBanker_v1.py). Copy and paste the code into the inline editor (while making sure to overwrite/delete any template code that is already in the code box)
 
-<img src="./images/lambda.png" alt="select latest" width="400"/>
+<img src="./images/lambda.png" alt="select latest" width="800"/>
 
 
 10. Click "Save" at the top to save the lambda function.
