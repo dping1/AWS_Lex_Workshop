@@ -46,7 +46,7 @@ Click the “Create Intent” button.
 
 15.	For Value, we want to allow the user to make queries against either their “checking” or “saving” account so enter those as values, clicking the blue “+” sign after each word.
 
-![addslot](./images/addslot.png)
+<img src="./images/addslot.png" alt="addslot" width="400"/>
 
 16.	Click “Add slot to intent”
 17.	Change the ‘Name’ to “AccountType” so that it matches the slot name that we specified when we created the sample utterences.
@@ -80,7 +80,7 @@ Let’s add 2 more intents and one more slot type.
         - car
         - home
 
-![loantype slot](./images/loantype.png)
+<img src="./images/loantype.png" alt="loantypeadd" width="400"/>
 
 25.	Click ‘Add slot to intent’
 
