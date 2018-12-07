@@ -22,12 +22,12 @@ Amazon Lex is a service for building conversational interfaces into any applicat
 Click the “Create Intent” button.
 10.	In the window that pops-up click the “Create intent” link.
 
-![Create Intent](./images/createintent.png)
+<img src="./images/createintent.png" alt="create intent " width="400"/>
+
 
 11.	Our first intent enables the user to get account details, so name this intent “GetAccountDetail” then click “Add”.
 
-
-![Create Intent Name](./images/createintentname.png)
+<img src="./images/createintentname.png" alt="create intene name" width="400"/>
 
 12.	We now want to provide samples of what our user would type or say to perform this action (i.e. to activate this intent). Under “Sample utterances”, type the below phrases and hit [enter] or click the blue “+” sign after each phrase. Make sure you do not add a question mark at the end of the phrase as this will cause build issues later on.
  -  What is my {AccountType} balance
